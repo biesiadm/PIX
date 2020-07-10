@@ -1,5 +1,3 @@
-; Mateusz Biesiadowski 406097
-
 INC_V     equ 1                         ; wartość o jaką zostaje zwiększone pidx w każdym obrocie pętli
 EXP_BASE  equ 16                        ; podstawa potęgi
 
